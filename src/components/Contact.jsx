@@ -111,7 +111,7 @@ export default function Contact() {
             </div>
             <div className="flex flex-col">
               <span className="text-xs font-semibold text-slate-400 uppercase tracking-wider">LinkedIn</span>
-              <span className="text-slate-200 text-sm md:text-base">Profile Link</span>
+              <span className="text-slate-200 text-sm md:text-base">Vishnu Kumar V</span>
             </div>
           </a>
         </div>
